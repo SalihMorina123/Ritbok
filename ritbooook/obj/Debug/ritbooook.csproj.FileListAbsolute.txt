@@ -1,0 +1,10 @@
+C:\Users\salih\source\repos\ritbooook\ritbooook\bin\Debug\ritbooook.exe.config
+C:\Users\salih\source\repos\ritbooook\ritbooook\bin\Debug\ritbooook.exe
+C:\Users\salih\source\repos\ritbooook\ritbooook\bin\Debug\ritbooook.pdb
+C:\Users\salih\source\repos\ritbooook\ritbooook\obj\Debug\ritbooook.csproj.AssemblyReference.cache
+C:\Users\salih\source\repos\ritbooook\ritbooook\obj\Debug\ritbooook.Form1.resources
+C:\Users\salih\source\repos\ritbooook\ritbooook\obj\Debug\ritbooook.Properties.Resources.resources
+C:\Users\salih\source\repos\ritbooook\ritbooook\obj\Debug\ritbooook.csproj.GenerateResource.cache
+C:\Users\salih\source\repos\ritbooook\ritbooook\obj\Debug\ritbooook.csproj.CoreCompileInputs.cache
+C:\Users\salih\source\repos\ritbooook\ritbooook\obj\Debug\ritbooook.exe
+C:\Users\salih\source\repos\ritbooook\ritbooook\obj\Debug\ritbooook.pdb
